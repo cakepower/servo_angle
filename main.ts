@@ -10,3 +10,8 @@ input.onButtonPressed(Button.B, function () {
     pins.servoWritePin(AnalogPin.P14, 0)
     basic.pause(1000)
 })
+basic.forever(function () {
+    if (true) {
+    	
+    }
+})
